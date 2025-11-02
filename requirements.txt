@@ -1,0 +1,20 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+python-dateutil
+fuzzywuzzy[speedup]    # or rapidfuzz
+scikit-learn
+xgboost
+matplotlib
+seaborn
+pytrends
+tqdm
+shap
+joblib
+sqlalchemy
+openpyxl
+boxoffice-api
+ipykernel
+regex

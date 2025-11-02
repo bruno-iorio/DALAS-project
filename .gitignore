@@ -1,0 +1,16 @@
+# Ignore raw and processed data
+output/
+*.csv
+*.xlsx
+*.json
+
+# Ignore virtual envs and IDE configs
+dalas_env/
+__pycache__/
+*.log
+.DS_Store
+.ipynb_checkpoints/
+
+# Optional: ignore temporary notebooks
+*_temp.ipynb
+
