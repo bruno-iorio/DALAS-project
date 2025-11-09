@@ -18,3 +18,4 @@ openpyxl
 boxoffice-api
 ipykernel
 regex
+sentence-transformers
